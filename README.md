@@ -1,7 +1,7 @@
 # Whatsapp-automated-chatbot
 A Node.js WhatsApp automation bot for an aquarium business featuring Groq AI integration for pet care advice and Google Sheets for order management
 
-##Karnataka Aquarium WhatsApp Bot (MVP)
+## Karnataka Aquarium WhatsApp Bot (MVP)
 An automated WhatsApp assistant built with whatsapp-web.js to streamline customer inquiries and orders.
 
 🚀 Features
