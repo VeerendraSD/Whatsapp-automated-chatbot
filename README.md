@@ -23,3 +23,6 @@ LLM API: Groq SDK (Llama 3.1)
 Database: Google Sheets API v4
 
 Authentication: LocalAuth for persistent WhatsApp sessions.
+
+
+This project is currently a functional MVP. I am working on expanding the depth of the product categories and integrating a real-time inventory database.
